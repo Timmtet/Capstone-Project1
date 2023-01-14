@@ -1,6 +1,6 @@
 # Capstone-Project1
 
-Table of Contents
+Table of Content
 
 1. Project Overview
 
