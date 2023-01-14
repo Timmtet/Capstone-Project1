@@ -19,9 +19,9 @@ In this project, we were provided with demographic data of customers of a mail-o
 
 This project is divided into three steps, namely:
 
-a. Customer Segmentation using Unsupervised Learning, in this part a thorough data analysis and feature engineering steps are performed to prepare the data for further steps. A Principal Component Analysis (PCA) is performed for dimensionality reduction. Then K-Means Clustering is performed on the PCA components to cluster the general population and the customer population into different segments. These clusters are studied to determine what features make a customer with the help of cluster weights and component weights.
+a. Customer Segmentation using Unsupervised Learning: In this part a thorough data analysis and feature engineering steps are performed to prepare the data for further steps. A Principal Component Analysis (PCA) is performed for dimensionality reduction. Then K-Means Clustering is performed on the PCA components to cluster the general population and the customer population into different segments. These clusters are studied to determine what features make a customer with the help of cluster weights and component weights.
 
-b. Customer Acquisition using Supervised Learning, This used the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign.
+b. Customer Acquisition using Supervised Learning: This used the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign.
 
 c. Kaggle Competition - This used the chosen model to make predictions on the campaign data as part of a Kaggle Competition and see how it measures up to the other fellow students.
 
