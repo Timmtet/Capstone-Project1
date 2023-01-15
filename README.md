@@ -23,7 +23,7 @@ a. Customer Segmentation using unsupervised learning: In this part a thorough da
 
 b. Customer Acquisition using supervised learning: Here, the previous analysis  was used to build a machine learning model that predicts whether or not each individual will respond to the campaign.
 
-c. Kaggle Competition - This used the chosen model to make predictions on the campaign data as part of a Kaggle Competition and see how it measures up to the other fellow students.
+c. Kaggle Competition - This used the chosen model to make predictions on the campaign data as part of a Kaggle Competition to see how it measures up to the other peoples's work.
 
 
 2. Data Files
