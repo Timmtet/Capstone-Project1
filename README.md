@@ -71,5 +71,5 @@ All of the requirements are given in requirements.txt. To install Run: pip insta
 
 The results have been clearly documented in the Jupyter Notebook. Please refer Arvato Project Workbook.ipynb.
 
-The blog post for this project is found in the link below:
+The blog post for this project can be found in the link below:
 https://medium.com/@akintilotimileyin/capstone-project-customer-segmentation-5f2844515909
