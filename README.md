@@ -43,7 +43,7 @@ feat_info.csv - Contains a summary of properties for each demographics data colu
 
 3. Technical Overview
 
-The project has been divided into various steps which include:
+The analysis was divided into various steps which include:
 
 Data Exploration 
 
